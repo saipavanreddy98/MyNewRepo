@@ -4,7 +4,7 @@ public class HelloWorld {
     }
 }
 
-dev-2 push from local
+//dev-2 push from local
 public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
@@ -17,4 +17,7 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
+
+
+new code by dev-1 without pull the code
 
