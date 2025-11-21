@@ -17,4 +17,3 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
-// enjoy the session
