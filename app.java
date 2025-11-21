@@ -17,10 +17,3 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
-
-//this is java code
-//we are using jenkins cron tab syntax 
-//hai everyone
-//new data adding
-
-
