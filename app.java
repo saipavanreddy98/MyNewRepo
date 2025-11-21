@@ -17,6 +17,4 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
-// we are learning poll scm in jenkins
-// in cron syntax we are learning the automatic build
-//hello everyone
+// enjoy the session
